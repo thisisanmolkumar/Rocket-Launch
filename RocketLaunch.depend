@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1607499952 source:c:\users\anmol kumar\desktop\programs\opengl\cg codes\oep2\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<cmath>
+
+1603864863 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
